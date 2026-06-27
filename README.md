@@ -47,7 +47,7 @@ This project focuses on transforming raw Blinkit sales data into an interactive 
 
  📊 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Blinkit Dashboard.png)
 
 
 💡 Business Insights
