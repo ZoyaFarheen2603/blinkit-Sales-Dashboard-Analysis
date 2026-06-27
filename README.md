@@ -47,7 +47,7 @@ This project focuses on transforming raw Blinkit sales data into an interactive 
 
  📊 Dashboard Preview
 
-![Dashboard](Blinkit Dashboard.png)
+[![Dashboard](Blinkit Dashboard.png)](https://github.com/ZoyaFarheen2603/blinkit-Sales-Dashboard-Analysis/blob/main/Blinkit%20Dashboard.png)
 
 
 💡 Business Insights
